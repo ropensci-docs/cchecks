@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8b35b004dac4a6fbc2d301bbd982e08e3d1ea6e4",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-10-06 15:04:01",
+    "files": 1,
+    "merge": false,
+    "message": "bump roxygen note version, add trailing slash to docs url in description\n"
+  },
+  "remote": "https://github.com/ropensci/cchecks",
+  "pkg": "cchecks"
+}

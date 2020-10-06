@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_heartbeat.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_history.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_maintainers.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_pkgs.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_pkgs_history.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cch_pkgs_search.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cchecks-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cchn_register.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/reference/cchn_rules.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/cchecks/articles/cchecks.html</loc>
+  </url>
+</urlset>
